@@ -1,0 +1,407 @@
+Rank,Type,Name,Revenue (USD)
+1,Government,United States,3,251,000,000,000.00
+2,Government,China,2,426,000,000,000.00
+3,Government,Germany,1,515,000,000,000.00
+4,Government,Japan,1,439,000,000,000.00
+5,Government,France,1,253,000,000,000.00
+6,Government,United Kingdom,1,101,000,000,000.00
+7,Government,Italy,876,000,000,000.00
+8,Government,Brazil,631,000,000,000.00
+9,Government,Canada,585,000,000,000.00
+10,Corporation,Walmart,482,130,000,000.00
+11,Government,Spain,473,600,000,000.00
+12,Government,Australia,425,700,000,000.00
+13,Government,Netherlands,336,500,000,000.00
+14,Corporation,State Grid,329,601,000,000.00
+15,Corporation,China National Petroleum,299,271,000,000.00
+16,Corporation,Sinopec Group,294,344,000,000.00
+17,Government,Korea, South,291,300,000,000.00
+18,Corporation,Royal Dutch Shell,272,156,000,000.00
+19,Government,Mexico,259,600,000,000.00
+20,Government,Sweden,250,800,000,000.00
+21,Corporation,Exxon Mobil,246,204,000,000.00
+22,Corporation,Volkswagen,236,600,000,000.00
+23,Corporation,Toyota Motor,236,592,000,000.00
+24,Government,India,236,000,000,000.00
+25,Corporation,Apple,233,715,000,000.00
+26,Government,Belgium,226,800,000,000.00
+27,Corporation,BP,225,982,000,000.00
+28,Government,Switzerland,221,900,000,000.00
+29,Government,Norway,220,200,000,000.00
+30,Government,Russia,216,300,000,000.00
+31,Corporation,Berkshire Hathaway,210,821,000,000.00
+32,Government,Venezuela,203,400,000,000.00
+33,Government,Saudi Arabia,193,000,000,000.00
+34,Corporation,McKesson,192,487,000,000.00
+35,Government,Austria,189,200,000,000.00
+36,Corporation,Samsung Electronics,177,440,000,000.00
+37,Government,Turkey,175,400,000,000.00
+38,Corporation,Glencore,170,497,000,000.00
+39,Corporation,Industrial & Commercial Bank of China,167,227,000,000.00
+40,Corporation,Daimler,165,800,000,000.00
+41,Government,Denmark,161,700,000,000.00
+42,Corporation,UnitedHealth Group,157,107,000,000.00
+43,Corporation,CVS Health,153,290,000,000.00
+44,Corporation,EXOR Group,152,591,000,000.00
+45,Corporation,General Motors,152,356,000,000.00
+46,Corporation,Ford Motor,149,558,000,000.00
+47,Corporation,China Construction Bank,147,910,000,000.00
+48,Corporation,AT&T,146,801,000,000.00
+49,Corporation,Total ,143,421,000,000.00
+50,Government,Argentina,143,400,000,000.00
+51,Corporation,Hon Hai Precision Industry,141,213,000,000.00
+52,Corporation,General Electric,140,389,000,000.00
+53,Corporation,China State Construction Engineering,140,159,000,000.00
+54,Corporation,AmerisourceBergen,135,962,000,000.00
+55,Corporation,Agricultural Bank of China,133,419,000,000.00
+56,Corporation,Verizon,131,620,000,000.00
+57,Government,Finland,131,400,000,000.00
+58,Corporation,Chevron,131,118,000,000.00
+59,Corporation,E.ON,129,277,000,000.00
+60,Corporation,AXA,129,250,000,000.00
+61,Government,Indonesia,123,300,000,000.00
+62,Corporation,Allianz,122,948,000,000.00
+63,Corporation,Bank of China,122,337,000,000.00
+64,Corporation,Honda Motor,121,624,000,000.00
+65,Corporation,Japan Post Holdings,118,762,000,000.00
+66,Corporation,Costco,116,199,000,000.00
+67,Corporation,BNP Paribas,111,531,000,000.00
+68,Corporation,Fannie Mae,110,359,000,000.00
+69,Corporation,Ping An Insurance,110,308,000,000.00
+70,Government,United Arab Emirates,110,100,000,000.00
+71,Corporation,Kroger,109,830,000,000.00
+72,Corporation,Société Générale,107,736,000,000.00
+73,Corporation,Amazon.com,107,006,000,000.00
+74,Corporation,China Mobile Communications,106,761,000,000.00
+75,Corporation,SAIC Motor,106,684,000,000.00
+76,Corporation,Walgreens Boots Alliance,103,444,000,000.00
+77,Corporation,HP,103,355,000,000.00
+78,Corporation,Assicurazioni Generali,102,567,000,000.00
+79,Corporation,Cardinal Health,102,531,000,000.00
+80,Corporation,BMW,102,248,000,000.00
+81,Corporation,Express Scripts Holding,101,752,000,000.00
+82,Corporation,Nissan Motor,101,536,000,000.00
+83,Corporation,China Life Insurance,101,274,000,000.00
+84,Corporation,J.P. Morgan Chase,101,006,000,000.00
+85,Corporation,Gazprom,99,464,000,000.00
+86,Corporation,China Railway Engineering,99,435,000,000.00
+87,Corporation,Petrobras,97,314,000,000.00
+88,Corporation,Trafigura Group,97,237,000,000.00
+89,Corporation,Nippon Telegraph & Telephone,96,134,000,000.00
+90,Corporation,Boeing,96,114,000,000.00
+91,Corporation,China Railway Construction,95,652,000,000.00
+92,Corporation,Microsoft,93,580,000,000.00
+93,Corporation,Bank of America Corp.,93,056,000,000.00
+94,Corporation,ENI,92,985,000,000.00
+95,Corporation,Nestlé,92,285,000,000.00
+96,Corporation,Wells Fargo,90,033,000,000.00
+97,Government,Portugal,89,940,000,000.00
+98,Corporation,HSBC Holdings,89,061,000,000.00
+99,Corporation ,Home Depot ,88,519,000,000.00
+100,Corporation,Citigroup,88,275,000,000.00
+101,Corporation,Siemens,87,660,000,000.00
+102,Corporation,Tesco,87,633,000,000.00
+103,Corporation,Carrefour,87,474,000,000.00
+104,Corporation,Phillips,87,169,000,000.00
+105,Corporation,Banco Santander,84,885,000,000.00
+106,Corporation,Lukoil,84,677,000,000.00
+107,Government,South Africa,84,150,000,000.00
+108,Corporation,Crédit Agricole,84,099,000,000.00
+109,Corporation,Enel,83,926,000,000.00
+110,Corporation,Hitachi,83,584,000,000.00
+111,Corporation,Électricité de France,83,202,000,000.00
+112,Corporation,Dongfeng Motor Group,82,817,000,000.00
+113,Corporation,IBM,82,461,000,000.00
+114,Corporation,Valero Energy,81,824,000,000.00
+115,Government,Poland,81,580,000,000.00
+116,Corporation,Hyundai Motor,81,320,000,000.00
+117,Government,Colombia,80,380,000,000.00
+118,Corporation,Anthem,79,157,000,000.00
+119,Corporation,Procter & Gamble,78,756,000,000.00
+120,Government,Ireland,78,420,000,000.00
+121,Government,Taiwan,78,360,000,000.00
+122,Corporation,Robert Bosch,78,323,000,000.00
+123,Corporation,BASF,78,147,000,000.00
+124,Corporation,Engie,77,520,000,000.00
+125,Government,Qatar,77,220,000,000.00
+126,Corporation,Deutsche Telekom,76,793,000,000.00
+127,Government,Egypt,76,610,000,000.00
+128,Corporation,China Resources National,76,574,000,000.00
+129,Corporation,SoftBank Group,76,469,000,000.00
+130,Government,Israel,76,120,000,000.00
+131,Corporation,State Farm Insurance Cos.,75,697,000,000.00
+132,Corporation,Alphabet,74,989,000,000.00
+133,Corporation,China Southern Power Grid,74,697,000,000.00
+134,Corporation,Comcast,74,510,000,000.00
+135,Corporation,Target,73,785,000,000.00
+136,Government,New Zealand,73,520,000,000.00
+137,Corporation,Pemex,73,514,000,000.00
+138,Corporation,Pacific Construction Group,73,047,000,000.00
+139,Government,Czechia,72,210,000,000.00
+140,Corporation,Airbus Group,71,493,000,000.00
+141,Government,Thailand,71,480,000,000.00
+142,Corporation,Metro,71,266,000,000.00
+143,Corporation,China South Industries Group,70,081,000,000.00
+144,Corporation,Johnson & Johnson,70,074,000,000.00
+145,Corporation,MetLife,69,951,000,000.00
+146,Corporation,China Post Group,69,637,000,000.00
+147,Corporation,Munich Re Group,69,433,000,000.00
+148,Corporation,U.S. Postal Service,68,928,000,000.00
+149,Corporation ,Deutsche Post ,68,358,000,000.00
+150,Corporation,China National Offshore Oil,67,799,000,000.00
+151,Corporation,China Communications Construction,67,764,000,000.00
+152,Corporation,AEON,67,758,000,000.00
+153,Corporation,Archer Daniels Midland,67,702,000,000.00
+154,Corporation,Sony,67,519,000,000.00
+155,Corporation,Nippon Life Insurance,67,118,000,000.00
+156,Corporation,Banco do Brasil,67,071,000,000.00
+157,Corporation,Noble Group,66,712,000,000.00
+158,Corporation,ING Group,66,206,000,000.00
+159,Corporation,Rosneft Oil,64,749,000,000.00
+160,Corporation,People’s Insurance Co. of China,64,606,000,000.00
+161,Corporation,Marathon Petroleum,64,566,000,000.00
+162,Corporation,COFCO,64,516,000,000.00
+163,Corporation,Tewoo Group,64,232,000,000.00
+164,Government,Hong Kong,63,720,000,000.00
+165,Corporation,ArcelorMittal,63,578,000,000.00
+166,Corporation,Freddie Mac,63,491,000,000.00
+167,Corporation,Petronas,63,466,000,000.00
+168,Corporation,Prudential,63,106,000,000.00
+169,Corporation,PepsiCo,63,056,000,000.00
+170,Corporation,Panasonic,62,921,000,000.00
+171,Corporation,Huawei Investment & Holding,62,855,000,000.00
+172,Corporation,China FAW Group,62,852,000,000.00
+173,Corporation,JX Holdings,62,511,000,000.00
+174,Government,Peru,62,340,000,000.00
+175,Corporation,China Telecommunications,61,796,000,000.00
+176,Corporation,Vodafone Group,61,690,000,000.00
+177,Corporation,China North Industries Group,61,621,000,000.00
+178,Government,Iraq,61,090,000,000.00
+179,Corporation,Dai-ichi Life Insurance,61,090,000,000.00
+180,Government,Kuwait,61,080,000,000.00
+181,Corporation,United Technologies,61,047,000,000.00
+182,Corporation,Telefónica,60,917,000,000.00
+183,Corporation,Marubeni,60,810,000,000.00
+184,Corporation,Sinochem Group,60,656,000,000.00
+185,Corporation,Peugeot,60,651,000,000.00
+186,Corporation,Zurich Insurance Group,60,568,000,000.00
+187,Corporation,Aetna,60,337,000,000.00
+188,Corporation,Aviation Industry Corp. of China,60,252,000,000.00
+189,Corporation,Auchan Holding,60,158,000,000.00
+190,Corporation,Statoil,59,895,000,000.00
+191,Corporation,PTT,59,196,000,000.00
+192,Corporation,Unilever,59,093,000,000.00
+193,Corporation,Lowe’s,59,074,000,000.00
+194,Government,Romania,58,390,000,000.00
+195,Corporation,UPS,58,363,000,000.00
+196,Corporation,AIG,58,327,000,000.00
+197,Corporation,Mitsubishi,57,689,000,000.00
+198,Corporation,Prudential Financial,57,119,000,000.00
+199,Corporation ,Bank of Communications ,57,068,000,000.00
+200,Government,Hungary,56,710,000,000.00
+201,Corporation,América Móvil,56,361,000,000.00
+202,Government,Greece,56,330,000,000.00
+203,Corporation,Groupe BPCE,56,209,000,000.00
+204,Government,Iran,56,110,000,000.00
+205,Corporation,CITIC Group,55,938,000,000.00
+206,Corporation,Louis Dreyfus,55,733,000,000.00
+207,Corporation,Intel,55,355,000,000.00
+208,Corporation,Itaú Unibanco Holding,55,082,000,000.00
+209,Corporation,Beijing Automotive Group,54,933,000,000.00
+210,Corporation,Indian Oil,54,711,000,000.00
+211,Corporation,Humana,54,289,000,000.00
+212,Corporation,Shandong Weiqiao Pioneering Group,53,026,000,000.00
+213,Government,Malaysia,52,970,000,000.00
+214,Corporation,Disney,52,465,000,000.00
+215,Corporation,Bayer,52,437,000,000.00
+216,Corporation,Deutsche Bank,52,422,000,000.00
+217,Corporation,Roche Group,52,390,000,000.00
+218,Corporation,BHP Billiton,52,267,000,000.00
+219,Corporation,Toshiba,52,032,000,000.00
+220,Corporation,Finatis,51,960,000,000.00
+221,Corporation,Wesfarmers,51,931,000,000.00
+222,Corporation,Korea Electric Power,51,805,000,000.00
+223,Corporation,POSCO,51,752,000,000.00
+224,Corporation,RWE,51,617,000,000.00
+225,Corporation,Novartis,51,030,000,000.00
+226,Corporation,Woolworths,50,618,000,000.00
+227,Corporation,Tokyo Electric Power,50,561,000,000.00
+228,Corporation,Renault,50,280,000,000.00
+229,Corporation,Seven & I Holdings,50,099,000,000.00
+230,Corporation,LG Electronics,49,996,000,000.00
+231,Corporation,Barclays,49,490,000,000.00
+232,Government,Algeria,49,380,000,000.00
+233,Corporation,CNP Assurances,49,305,000,000.00
+234,Corporation,Cisco Systems,49,161,000,000.00
+235,Corporation,ThyssenKrupp,48,981,000,000.00
+236,Corporation,JBS,48,870,000,000.00
+237,Corporation,Pfizer,48,851,000,000.00
+238,Corporation,Dow Chemical,48,778,000,000.00
+239,Corporation,Sysco,48,681,000,000.00
+240,Corporation,China Merchants Bank,48,459,000,000.00
+241,Government,Chile,48,400,000,000.00
+242,Corporation,Amer International Group,47,795,000,000.00
+243,Corporation,Mitsubishi UFJ Financial Group,47,600,000,000.00
+244,Corporation,FedEx,47,453,000,000.00
+245,Corporation,Lloyds Banking Group,47,192,000,000.00
+246,Corporation,Caterpillar,47,011,000,000.00
+247,Government,Philippines,46,640,000,000.00
+248,Corporation,Industrial Bank,46,446,000,000.00
+249,Corporation ,Saint-Gobain ,46,169,000,000.00
+250,Corporation,Lockheed Martin,46,132,000,000.00
+251,Corporation,New York Life Insurance,45,891,000,000.00
+252,Corporation,Sberbank,45,608,000,000.00
+253,Government,Singapore,44,060,000,000.00
+254,Government,Vietnam,39,610,000,000.00
+255,Government,Pakistan,38,750,000,000.00
+256,Government,Angola,35,430,000,000.00
+257,Government,Ecuador,35,100,000,000.00
+258,Government,Kazakhstan,34,100,000,000.00
+259,Government,Oman,30,130,000,000.00
+260,Government,Ukraine,25,430,000,000.00
+261,Government,Morocco,24,490,000,000.00
+262,Government,Luxembourg,23,650,000,000.00
+263,Government,Belarus,21,850,000,000.00
+264,Government,Bangladesh,21,280,000,000.00
+265,Government,Croatia,20,490,000,000.00
+266,Government,Uzbekistan,18,740,000,000.00
+267,Government,Bulgaria,17,810,000,000.00
+268,Government,Slovenia,17,380,000,000.00
+269,Government,Bolivia,16,280,000,000.00
+270,Government,Slovakia,16,230,000,000.00
+271,Government,Azerbaijan,16,150,000,000.00
+272,Government,Uruguay,15,940,000,000.00
+273,Government,Serbia,14,910,000,000.00
+274,Government,Nigeria,14,370,000,000.00
+275,Government,Macau,14,160,000,000.00
+276,Government,Lithuania,13,310,000,000.00
+277,Government,Tunisia,10,870,000,000.00
+278,Government,Dominican Republic,10,680,000,000.00
+279,Government,Kenya,10,600,000,000.00
+280,Government,Lebanon,10,280,000,000.00
+281,Government,Libya,10,190,000,000.00
+282,Government,Panama,10,180,000,000.00
+283,Government,Sri Lanka,9,785,000,000.00
+284,Government,Latvia,9,394,000,000.00
+285,Government,Ethiopia,9,114,000,000.00
+286,Government,Puerto Rico,8,908,000,000.00
+287,Government,Trinidad and Tobago,8,802,000,000.00
+288,Government,Estonia,8,757,000,000.00
+289,Government,Jordan,8,707,000,000.00
+290,Government,Ghana,8,123,000,000.00
+291,Government,Cyprus,7,743,000,000.00
+292,Government,Costa Rica,7,500,000,000.00
+293,Government,Guatemala,7,243,000,000.00
+294,Government,Bosnia and Herzegovina,7,204,000,000.00
+295,Government,Iceland,6,914,000,000.00
+296,Government,Tanzania,6,819,000,000.00
+297,Government,Sudan,6,518,000,000.00
+298,Government,Turkmenistan,6,229,000,000.00
+299,Government ,Congo, Democratic Republic of the,6,084,000,000.00
+300,Government,Cote d'Ivoire,5,914,000,000.00
+301,Government,Paraguay,5,294,000,000.00
+302,Government,Bahrain,5,149,000,000.00
+303,Government,El Salvador,5,133,000,000.00
+304,Government,Botswana,5,078,000,000.00
+305,Government,Namibia,4,617,000,000.00
+306,Government,Mozambique,4,587,000,000.00
+307,Government,Nepal,4,257,000,000.00
+308,Government,Brunei,4,142,000,000.00
+309,Government,Papua New Guinea,4,142,000,000.00
+310,Government,Cameroon,4,035,000,000.00
+311,Government,Malta,4,031,000,000.00
+312,Government,Syria,3,900,000,000.00
+313,Government,Congo, Republic of the,3,896,000,000.00
+314,Government,Georgia,3,874,000,000.00
+315,Government,Zimbabwe,3,732,000,000.00
+316,Government,Jamaica,3,704,000,000.00
+317,Government,Zambia,3,643,000,000.00
+318,Government,Gabon,3,563,000,000.00
+319,Government,Honduras,3,434,000,000.00
+320,Government,Senegal,3,394,000,000.00
+321,Government,Cambodia,3,334,000,000.00
+322,Government,Uganda,3,290,000,000.00
+323,Government,Korea, North,3,200,000,000.00
+324,Government,Laos,3,095,000,000.00
+325,Government,Mongolia,2,994,000,000.00
+326,Government,Equatorial Guinea,2,990,000,000.00
+327,Government,Albania,2,978,000,000.00
+328,Government,Yemen,2,933,000,000.00
+329,Government,West Bank,2,750,000,000.00
+330,Government,Cuba,2,721,000,000.00
+331,Government,Macedonia,2,709,000,000.00
+332,Government,Burma,2,682,000,000.00
+333,Government,Armenia,2,541,000,000.00
+334,Government,Madagascar,2,533,000,000.00
+335,Government,Tajikistan,2,432,000,000.00
+336,Government,Mali,2,409,000,000.00
+337,Government,Moldova,2,320,000,000.00
+338,Government,Chad,2,310,000,000.00
+339,Government,Mauritius,2,212,000,000.00
+340,Government,Burkina Faso,2,182,000,000.00
+341,Government,Kyrgyzstan,2,113,000,000.00
+342,Government,Mauritania,2,076,000,000.00
+343,Government,Nicaragua,1,975,000,000.00
+344,Government,Niger,1,975,000,000.00
+345,Government,French Polynesia,1,891,000,000.00
+346,Government,Rwanda,1,857,000,000.00
+347,Government,Haiti,1,814,000,000.00
+348,Government,Benin,1,762,000,000.00
+349,Government ,Greenland ,1,720,000,000.00
+350,Government,Afghanistan,1,700,000,000.00
+351,Government,Bahamas, The,1,600,000,000.00
+352,Government,Montenegro,1,560,000,000.00
+353,Government,Guinea,1,546,000,000.00
+354,Government,Eritrea,1,443,000,000.00
+355,Government,Kosovo,1,396,000,000.00
+356,Government,Barbados,1,300,000,000.00
+357,Government,Malawi,1,188,000,000.00
+358,Government,Lesotho,1,161,000,000.00
+359,Government,Swaziland,1,153,000,000.00
+360,Government,Guam,1,147,000,000.00
+361,Government,Fiji,1,087,000,000.00
+362,Government,Monaco,1,075,000,000.00
+363,Government,Suriname,1,061,000,000.00
+364,Government,Andorra,1,029,000,000.00
+365,Government,Faroe Islands,1,025,000,000.00
+366,Government,Togo,1,025,000,000.00
+367,Government,Liechtenstein,995,300,000.00
+368,Government,Maldives,960,000,000.00
+369,Government,Burundi,852,000,000.00
+370,Government,Guyana,805,800,000.00
+371,Government,Liberia,681,500,000.00
+372,Government,San Marino,667,700,000.00
+373,Government,Aruba,648,100,000.00
+374,Government,Bhutan,608,000,000.00
+375,Government,Djibouti,587,500,000.00
+376,Government,Sierra Leone,544,100,000.00
+377,Government,Belize,500,000,000.00
+378,Government,Seychelles,478,700,000.00
+379,Government,South Sudan,437,000,000.00
+380,Government,Solomon Islands,415,500,000.00
+381,Government,Cabo Verde,374,100,000.00
+382,Government,Timor-Leste,300,000,000.00
+383,Government,Saint Kitts and Nevis,296,300,000.00
+384,Government,Antigua and Barbuda,255,900,000.00
+385,Government,Samoa,234,800,000.00
+386,Government,Gambia, The,226,800,000.00
+387,Government,Micronesia, Federated States of,213,800,000.00
+388,Government,Central African Republic,212,000,000.00
+389,Government,Kiribati,197,900,000.00
+390,Government,Grenada,191,800,000.00
+391,Government,Saint Lucia,185,200,000.00
+392,Government,Saint Vincent and the Grenadines,185,200,000.00
+393,Government,Guinea-Bissau,155,300,000.00
+394,Government,Dominica,148,100,000.00
+395,Government,Tonga,146,300,000.00
+396,Government,Somalia,145,300,000.00
+397,Government,Vanuatu,141,000,000.00
+398,Government,Comoros,129,900,000.00
+399,Government,Palau,123,600,000.00
+400,Government,Marshall Islands,116,700,000.00
+401,Government,Cook Islands,86,900,000.00
+402,Government,Sao Tome and Principe,84,330,000.00
+403,Government,Saint Pierre and Miquelon,70,000,000.00
+404,Government,Nauru,57,800,000.00
+405,Government,Tuvalu,42,680,000.00
+406,Government,Niue,15,070,000.00
