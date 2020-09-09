@@ -1,0 +1,30 @@
+Physician Name;NYS Physician License Number;Facility ID;Hospital Name;Detailed Region;Region;Procedure;Year of Hospital Discharge;Number of Cases;Number of Deaths;Observed Mortality Rate;Expected Mortality Rate;Risk-Adjusted Mortality Rate;Lower Limit of Confidence Interval;Upper Limit of Confidence Interval;Comparison Results
+Abbott A E;243474;0;All Hospitals;N/A;N/A;CABG;2009-2011;121;2;1.65;1.24;2.07;0.23;7.48;Rate not different than Statewide Rate
+Abrol S;1395;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;287;8;2.79;2.93;2.59;1.12;5.11;Rate not different than Statewide Rate
+Abrol S;1395;0;All Hospitals;N/A;N/A;CABG;2009-2011;192;3;1.56;1.79;1.36;0.27;3.97;Rate not different than Statewide Rate
+Adams D H;223474;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;886;19;2.14;2.75;2.13;1.28;3.33;Rate not different than Statewide Rate
+Abbott A E;243474;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;164;4;2.44;1.58;4.21;1.13;10.77;Rate not different than Statewide Rate
+Adams D H;223474;0;All Hospitals;N/A;N/A;CABG;2009-2011;17;0;0.00;0.78;0.00;0.00;43.34;Rate not different than Statewide Rate
+Aldridge J;128093;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;260;7;2.69;2.18;3.37;1.35;6.95;Rate not different than Statewide Rate
+Aldridge J;128093;0;All Hospitals;N/A;N/A;CABG;2009-2011;198;3;1.52;1.66;1.42;0.29;4.15;Rate not different than Statewide Rate
+Alfieris G;176297;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;1;0;0.00;1.23;0.00;0.00;100.00;Rate not different than Statewide Rate
+Anyanwu A C;270258;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;107;10;9.35;5.06;5.04;2.41;9.28;Rate not different than Statewide Rate
+Anyanwu A C;270258;0;All Hospitals;N/A;N/A;CABG;2009-2011;43;1;2.33;1.48;2.45;0.03;13.60;Rate not different than Statewide Rate
+Argenziano M;199030;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;388;17;4.38;2.46;4.86;2.83;7.78;Rate significantly higher than Statewide Rate
+Argenziano M;199030;0;All Hospitals;N/A;N/A;CABG;2009-2011;150;6;4.00;1.25;4.97;1.81;10.81;Rate significantly higher than Statewide Rate
+Asgarian K T;236991;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;531;19;3.58;2.15;4.55;2.74;7.11;Rate significantly higher than Statewide Rate
+Asgarian K T;236991;0;All Hospitals;N/A;N/A;CABG;2009-2011;320;5;1.56;1.33;1.83;0.59;4.26;Rate not different than Statewide Rate
+Ashraf M;164499;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;788;13;1.65;1.65;2.74;1.46;4.68;Rate not different than Statewide Rate
+Ashraf M;164499;0;All Hospitals;N/A;N/A;CABG;2009-2011;599;8;1.34;1.41;1.48;0.64;2.91;Rate not different than Statewide Rate
+Balaram S K;229489;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;141;5;3.55;3.12;3.10;1.00;7.23;Rate not different than Statewide Rate
+Balaram S K;229489;0;All Hospitals;N/A;N/A;CABG;2009-2011;80;2;2.50;1.86;2.09;0.23;7.54;Rate not different than Statewide Rate
+Balsam L B;248717;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;261;2;0.77;1.93;1.08;0.12;3.91;Rate not different than Statewide Rate
+Balsam L B;248717;0;All Hospitals;N/A;N/A;CABG;2009-2011;141;0;0.00;1.10;0.00;0.00;3.67;Rate not different than Statewide Rate
+Becker E J;224517;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;194;9;4.64;3.03;4.18;1.91;7.93;Rate not different than Statewide Rate
+Becker E J;224517;0;All Hospitals;N/A;N/A;CABG;2009-2011;151;5;3.31;1.95;2.65;0.85;6.18;Rate not different than Statewide Rate
+Bello R A;224284;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;342;16;4.68;2.69;4.75;2.71;7.72;Rate not different than Statewide Rate
+Bello R A;224284;0;All Hospitals;N/A;N/A;CABG;2009-2011;238;5;2.10;1.46;2.24;0.72;5.22;Rate not different than Statewide Rate
+Bell-Thomson J;121353;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;749;19;2.54;1.92;3.61;2.17;5.63;Rate not different than Statewide Rate
+Bell-Thomson J;121353;0;All Hospitals;N/A;N/A;CABG;2009-2011;448;8;1.79;1.40;1.99;0.86;3.92;Rate not different than Statewide Rate
+Bennett E;140950;0;All Hospitals;N/A;N/A;CABG, Valve or Valve/CABG;2009-2011;525;9;1.71;2.75;1.70;0.77;3.22;Rate not different than Statewide Rate
+Bennett E;140950;0;All Hospitals;N/A;N/A;CABG;2009-2011;169;0;0.00;1.16;0.00;0.00;2.91;Rate not different than Statewide Rate
