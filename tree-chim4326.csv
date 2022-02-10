@@ -1,4 +1,4 @@
-X,Y,id,@id,addr:city,addr:street,denotation,leaf_cycle,leaf_type,natural,genus,species,species:es,species:mp,species:es_1,wikidata,wikipedia
+lng,lat,id,@id,addr:city,addr:street,denotation,leaf_cycle,leaf_type,natural,genus,species,species:es,species:mp,species:es_1,wikidata,wikipedia
 -71.0346083,-34.7129107,node/5614437032,node/5614437032,Chimbarongo,Alonso de Ercilla,park,evergreen,broadleaved,tree,,,,,,,
 -71.0343861,-34.7125862,node/5614437033,node/5614437033,Chimbarongo,Alonso de Ercilla,street,evergreen,broadleaved,tree,Schinus,Schinus molle,Molle,,,,
 -71.0275752,-34.7074686,node/6143907729,node/6143907729,Chimbarongo,El Bosque,street,deciduous,broadleaved,tree,Robinia,Robinia pseudoacacia,Acacia Bastarda,,,,
